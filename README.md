@@ -1,16 +1,18 @@
-# ADS Project 5: 
+# ADS Project 5:  Wine Review
 
 Term: Fall 2018
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team #5
+
++ Projec title: Wine Review
+
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Gao, Han (hg2474)
+	+ Mu, Jianping (jm4610)
+	+ Wang, Nannan (nw2387)
+	+ Zhong, Qingyang (qz2317)
+	
++ Project summary: In this project, we develop an analysis about wine. First we get our data from ... and then is the exploratory data analysis part. In the EDA part, in addition to the original feature included in dataset, we also convert the description of each entry to 4 features that we can analysis in the proceeding steps. So our response variable is price, and we have other ... explanatory variables. After that we use two different algorithms,both unsupervised learning, KNN and SOM, to explore the relationship between the price of wine and our features.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
