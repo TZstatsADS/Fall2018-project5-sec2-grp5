@@ -1,4 +1,4 @@
-# ADS Project 5:  Wine Review
+# ADS Project 5: Free-Topic Final Project
 
 ![image](figs/wine.jpg)
 
