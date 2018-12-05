@@ -1,5 +1,5 @@
 # Project: 
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The data directory contains data used in the analysis. The original data of this project is collected from Kaggle(https://www.kaggle.com/zynicide/wine-reviews).This original data set contains 14 columns and 130k rows of wine reviews and the processed data contains 7 columns and 258144 rows.
 
