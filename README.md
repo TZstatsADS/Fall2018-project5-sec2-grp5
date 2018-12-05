@@ -1,5 +1,7 @@
 # ADS Project 5:  Wine Review
 
+![image](figs/wine.jpg)
+
 Term: Fall 2018
 
 + Team #5
