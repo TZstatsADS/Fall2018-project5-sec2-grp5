@@ -6,7 +6,7 @@ Term: Fall 2018
 
 + Team #5
 
-+ Projec title: Wine Review
++ Projec title: [Data Analysis of Wine Review](output/Group5_proj5)
 
 + Team members
 	+ Gao, Han (hg2474)
